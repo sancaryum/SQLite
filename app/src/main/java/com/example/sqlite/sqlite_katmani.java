@@ -6,10 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class sqlite_katmani extends SQLiteOpenHelper {
 
-    public sqlite_katmani (Context c){
 
-
-    }
 
     @Override
     public void onCreate(SQLiteDatabase db) {
