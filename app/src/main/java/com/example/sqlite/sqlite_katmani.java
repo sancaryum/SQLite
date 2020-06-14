@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class sqlite_katmani extends SQLiteOpenHelper {
 
 
-
+sqlite_katmani=
     @Override
     public void onCreate(SQLiteDatabase db) {
 
